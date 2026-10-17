@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-A Claude Flow powered project
+Star catalog REST API built with Fastify (in-memory store). Endpoints live under `/stars`; see `src/stars/`.
 
 **Tech Stack**: TypeScript, Node.js
 **Architecture**: Domain-Driven Design with bounded contexts
