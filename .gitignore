@@ -3,6 +3,9 @@
 # Claude Flow runtime data
 .claude-flow/data/
 .claude-flow/logs/
+.claude-flow/policy/
+.claude-flow/swarm/
+.swarm/
 # Environment variables
 .env
 .env.local
